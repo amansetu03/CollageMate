@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".InternshipActivity"
+    >
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycleview"
+        android:scrollbars="vertical"
+        tools:listitem="@layout/singlerow"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+android:background="@drawable/back2"
+
+
+
+
+        />
+</androidx.cardview.widget.CardView>

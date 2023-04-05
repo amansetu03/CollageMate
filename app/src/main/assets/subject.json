@@ -1,0 +1,40 @@
+{
+    "subject": [
+      {
+        "name": "SPT Assignment 1",
+        "assigndate": "15/03/2023",
+        "enddate": "18/03/2023"
+      },
+      {
+        "name": "SPT Assignment 2",
+        "assigndate": "15/03/2023",
+        "enddate": "21/03/2023"
+      },
+      {
+        "name": "DBMS Assignment 1",
+        "assigndate": "12/03/2023",
+        "enddate": "18/03/2023"
+      },
+      {
+        "name": "CN Assignment 2",
+        "assigndate": "14/03/2023",
+        "enddate": "18/03/2023"
+      },
+      {
+        "name": "Web Tech Assignment 2",
+        "assigndate": "11/03/2023",
+        "enddate": "16/03/2023"
+      },
+      {
+        "name": "TOC Assignment 1",
+        "assigndate": "15/03/2023",
+        "enddate": "16/03/2023"
+      },
+      {
+        "name": "COA Assignment 1",
+        "assigndate": "10/03/2023",
+        "enddate": "15/03/2023"
+      }
+
+]
+}

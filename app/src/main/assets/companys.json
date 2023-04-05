@@ -1,0 +1,118 @@
+{
+    "companies": [
+      {
+        "name": "Junglee Games",
+        "domain": "Software Developer",
+        "location": "",
+        "url": "http://www.jungleegames.com/"
+      },
+      {
+        "name": "Zorior Technologies Pvt Ltd",
+        "domain": "IOS Developer",
+        "location": "Ahmdabad",
+        "url": "https://www.zorior.com/"
+      },
+      {
+        "name": "HKKR Global",
+        "domain": "Backend Developer",
+        "location": "Gurgram",
+        "url": "https://hkkrglobal.com/"
+      },
+      {
+        "name": "Webvillee Technology Pvt Ltd",
+        "domain": "FullStack Developer (Java)",
+        "location": "Indore (Onsite)",
+        "url": "https://webvillee.com/"
+      },
+      {
+        "name": "Facebook",
+        "domain": "facebook.com",
+        "location": "Menlo Park, CA",
+        "url": "https://www.facebook.com"
+      },
+      {
+        "name": "Netflix",
+        "domain": "netflix.com",
+        "location": "Los Gatos, CA",
+        "url": "https://www.netflix.com"
+      },
+      {
+        "name": "Tesla",
+        "domain": "tesla.com",
+        "location": "Palo Alto, CA",
+        "url": "https://www.tesla.com"
+      },
+      {
+        "name": "Uber",
+        "domain": "uber.com",
+        "location": "San Francisco, CA",
+        "url": "https://www.uber.com"
+      },
+      {
+        "name": "Airbnb",
+        "domain": "airbnb.com",
+        "location": "San Francisco, CA",
+        "url": "https://www.airbnb.com"
+      },
+      {
+        "name": "Twitter",
+        "domain": "twitter.com",
+        "location": "San Francisco, CA",
+        "url": "https://www.twitter.com"
+      },
+      {
+        "name": "Centilytics | Intelligent Cloud Management",
+        "domain": "Azure (Cloud Engineer )",
+        "location": "Noida 83, Bangalore",
+        "url": "https://www.centilytics.com/"
+      },
+      {
+        "name": "ASPIA InfoTech",
+        "domain": "Frontend developer",
+        "location": "Gurugram, Haryana",
+        "url": "https://www.aspiainfotech.com"
+      },
+      {
+        "name": "Razorpay",
+        "domain": "Application Developer",
+        "location": "Bangalore / Pune",
+        "url": "https://razorpay.com/?utm_source=linkedin&utm_medium=social"
+      },
+      {
+        "name": "SourceMash",
+        "domain": "Technical HelpDesk",
+        "location": "Mohali, Punjab",
+        "url": "https://sourcemash.com/"
+      },
+      {
+        "name": "Tata Technologies",
+        "domain": "Embedded CI/CD Engineer",
+        "location": "BANGALORE, Nashik, PUNE",
+        "url": "https://www.tatatechnologies.co"
+      },
+      {
+        "name": "Webvillee Technology Pvt Ltd",
+        "domain": "SAP MM",
+        "location": "Delhi (Onsite)",
+        "url": "https://webvillee.com/"
+      },
+      {
+        "name": "ASPIA InfoTech",
+        "domain": "Frontend developer",
+        "location": "Gurugram, Haryana",
+        "url": "https://www.aspiainfotech.com/"
+      },
+      {
+        "name": "Magnus Minds",
+        "domain": "Angular Developer",
+        "location": "Gujrat",
+        "url": "https://magnusminds.net/index.html/"
+      },
+      {
+        "name": "AdvaRis",
+        "domain": "Data engineer",
+        "location": "Mumbai",
+        "url": "http://www.advarisk.com"
+      }
+    ]
+  }
