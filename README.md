@@ -1,4 +1,4 @@
-# Codecore
+# CollageMate
 an app that help student in various field such as mental health, getting internship and more.
 <h1> App Preview</h1><br>
 <div>
